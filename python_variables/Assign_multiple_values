@@ -1,0 +1,9 @@
+#ex-1
+x=y=z = 'Hello World'
+#ex-2
+x,y,z = "Orange","Banana","Cherry"
+#ex-3
+fruits = ['apple', 'banana', 'cherry']
+a, b, c = fruits
+print(a)
+apple
