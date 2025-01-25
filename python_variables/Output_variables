@@ -1,0 +1,13 @@
+#ex-1
+print('Hello', 'World')
+Hello World
+#ex-2
+a = 'Hello'
+b = 'World'
+print(a + b)
+HelloWorld
+#ex-3
+a = 4
+b = 5
+print(a + b)
+9
