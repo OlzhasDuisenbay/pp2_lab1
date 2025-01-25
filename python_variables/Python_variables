@@ -1,0 +1,14 @@
+#ex-1
+x = 5
+#ex-2
+x = "John"
+# is the same as
+x = 'John'
+True
+#ex-3
+a = 5
+# is the same as
+A = 5
+False
+#ex-4
+print(type(myvar))
